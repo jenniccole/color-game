@@ -73,3 +73,17 @@ button:hover {
     color: white;
     background: steelblue;
 }
+
+
+#goTo {
+    color: white;
+}
+
+a {
+    color: steelblue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}
