@@ -73,3 +73,10 @@ button:hover {
     color: white;
     background: steelblue;
 }
+
+a {
+    color: steelblue;
+}
+a:hover {
+    color: white;
+}
